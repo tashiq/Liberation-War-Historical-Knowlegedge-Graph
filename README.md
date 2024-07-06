@@ -1,8 +1,12 @@
 # Liberation-War-Historical-Knowlegedge-Graph
 **Title:** Constructing Knowledge Graphs of Bangladesh Liberation War Using Newspaper Articles
+
 **Author:** Mohammad Fahim Foisal, Dr. Rudra Pratap Deb Nath
+
 **Publication:** *Not Yet*
+
 **Contact:** fahim.csecu@gmail.com
+
 **Live Link:** {[PyVis Visualization](https://tashiq.github.io/Liberation-War-Historical-Knowlegedge-Graph/)}
 
 ## Introduction: 
